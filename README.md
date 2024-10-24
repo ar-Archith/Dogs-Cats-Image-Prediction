@@ -24,9 +24,11 @@ This repository implements a Convolutional Neural Network (CNN) model to classif
    ```bash
    pip install tensorflow keras
 3. **Prepare Data:**
-   - Unzip the `Dogs_Cats.zip` which contains the directory named `Dogs_Cats` containing two subdirectories: `training_set` and `test_set`.
+   -This specific project utilizes the Dogs vs. Cats dataset, readily available on Kaggle:
+   Download Link: [cat-and-dog](https://www.kaggle.com/datasets/tongpython/cat-and-dog)
+   - Download the dataset, change the directory name to `Dogs_Cats` containing two subdirectories: `training_set` and `test_set`.
    - These subdirectories should further contain folders named `dogs` and `cats` with their respective images.
-4. **Run the Notebook:**
+5. **Run the Notebook:**
    Open the `Dogs_Cats_ImagePrediction.ipynb` file in your preferred Jupyter Notebook environment and execute the code cells.
 
 ## Note:
