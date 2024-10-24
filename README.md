@@ -13,7 +13,7 @@ This repository implements a Convolutional Neural Network (CNN) model to classif
 ## Requirements:
 
 * Python 3.x
-* Libraries: TensorFlow, Keras
+* Libraries: TensorFlow, Keras, numpy
 
 ## How to Use:
 
